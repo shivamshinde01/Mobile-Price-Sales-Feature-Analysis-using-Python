@@ -49,8 +49,3 @@ The purpose of this project is to conduct a thorough data analysis on mobile pho
 - **NumPy** for numerical operations.
 - **Matplotlib** and **Seaborn** for data visualization.
 
-## Setup Instructions
-
-1. **Clone the Repository**: Clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/yourusername/repository-name.git
